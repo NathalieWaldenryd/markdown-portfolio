@@ -1,1 +1,1 @@
-![https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://github.com/NathalieWaldenryd)
+[GitHub](https://github.com/NathalieWaldenryd)
