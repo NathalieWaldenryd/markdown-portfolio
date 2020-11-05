@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+![https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://github.com/NathalieWaldenryd)
