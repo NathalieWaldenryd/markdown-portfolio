@@ -1,0 +1,3 @@
+- I really like sushi
+- I like video games
+  - League and other multiplayer games is what i like but i also like hack and slash singleplayer games
